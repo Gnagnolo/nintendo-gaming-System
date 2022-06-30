@@ -1,6 +1,6 @@
 @font-face {
     font-family: museo-sans;
-    src: url(MuseoSansCyrl-500.woff2);
+    src: url(font/MuseoSansCyrl-500.woff2);
 }
 
 .container-game-system-section{
@@ -35,6 +35,7 @@
     border-color: rgb(230, 0, 18);
     font-family: museo-sans;
     font-size: 18px;
+    cursor: pointer;
 }
 
 .button-explore:hover {
